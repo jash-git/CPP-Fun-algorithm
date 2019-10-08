@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458892714 source:e:\4我的case\书\经典算法实战解析\codeblocks\program 3-4\main.cpp
+	<stdlib.h>
+	<cstring>
+	<iostream>
+

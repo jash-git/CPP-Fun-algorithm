@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472696175 source:e:\4我的case\书\经典算法实战解析\codeblocks\program 6-2\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cmath>
+	<queue>
+

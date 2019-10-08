@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450838500 source:c:\program files\codeblocks\parogram 2-4-1\main.cpp
+	<cstdio>
+	<queue>
+	<iostream>
+	<cstring>
+	<windows.h>
+

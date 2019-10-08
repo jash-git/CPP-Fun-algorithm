@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1450235354 source:c:\program files\codeblocks\program 2-2\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1473664609 source:e:\4我的case\书\经典算法实战解析\codeblocks\program 2-2\main.cpp
+	<cstring>
+	<iostream>
+	<algorithm>
+
